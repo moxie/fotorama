@@ -4,6 +4,7 @@ $white: white;
 $gray: mix(black, white);
 $lightgray: mix($gray, white);
 $blue: mix(#00d1ff, #008ed6);
+$fotorama-image-path: '../i';
 
 @import 'mixins';
 @import 'placeholders';
